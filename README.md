@@ -2,7 +2,8 @@
 This is the project for OS course.
 
 PA1 simulates a unix shell which takes commands as input and interact with users.
-Multi-threading was achieved to support piping and redirection commands
+Multi-threading was achieved to support program execution concurrency in REPL loops.
+Moreover, the commands can be executed as background processes.
 
 PA2 simulates a producer-consumer model by introducing client and server objects.
 Uses LinkedBlockingQueue objects, Java synchronized methods and Reentrant Locks
