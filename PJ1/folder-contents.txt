@@ -1,2 +1,13 @@
 dir2
 f1.txt
+dir2
+f1.txt
+.classpath
+.DS_Store
+.project
+.settings
+bin
+folder-contents.txt
+new-hello-world.txt
+src
+trial-file.txt
